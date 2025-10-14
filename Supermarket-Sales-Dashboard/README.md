@@ -13,4 +13,5 @@ This Excel dashboard analyzes supermarket sales performance across multiple citi
 **Tools Used:**  
 Excel | Pivot Tables | Charts | Data Cleaning | Conditional Formatting | Slicers
 
-![Supermarket Dashboard](Supermarket-Dashboard.png)
+![Supermarket Dashboard](./Supermarket-Dashboard.png)
+
